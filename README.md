@@ -21,9 +21,9 @@
 
 ## 🚀 Проекты
 
-- **LangGraph AI Agent(https://github.com/GlebShalunkov/LangGraph-AI-Agent-)** — RAG-агент по деловым документам (LangGraph, ChromaDB, Ollama). Работает офлайн, не выдумывает информацию.
-- **Школьный AI-помощник(https://github.com/GlebShalunkov/Local-AI-RAG-bot-for-school)** — RAG-помощник по учебным материалам (RAG, Streamlit).
-- **Steam RAG Search(https://github.com/GlebShalunkov/Local-AI-RAG-bot-for-school)** — семантический поиск по описаниям игр (RAG, embeddings).
+- **[LangGraph AI Agent(https://github.com/GlebShalunkov/LangGraph-AI-Agent-)]** — RAG-агент по деловым документам (LangGraph, ChromaDB, Ollama). Работает офлайн, не выдумывает информацию.
+- **[Школьный AI-помощник(https://github.com/GlebShalunkov/Local-AI-RAG-bot-for-school)]** — RAG-помощник по учебным материалам (RAG, Streamlit).
+- **[Steam RAG Search(https://github.com/GlebShalunkov/steam-RAG-search)]** — семантический поиск по описаниям игр (RAG, embeddings).
 
 ## 💡 Чем могу быть полезен
 
