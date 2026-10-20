@@ -35,4 +35,4 @@
 
 - GitHub: [Gleb Shalunkov](https://github.com/GlebShalunkov)
 - Email: gleb.shalunkov@mail.ru
-- Telegram:(https://t.me/GLEBowski_Telegram)
+- Telegram:[@GLEBowski_Telegram](https://t.me/GLEBowski_Telegram)
