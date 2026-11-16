@@ -1,16 +1,16 @@
 # Привет, я Глеб 👋
 
-**AI Engineer / Building agentic AI with LangGraph, RAG, and Ollama**
+**AI-практик: строю RAG-агентов для работы с документами и знаниями**
 
-Строю AI-агентов, которые автоматизируют работу с документами и знаниями. Создаю системы, которые работают без меня.
+Помогаю бизнесу и образованию автоматизировать рутину с документами: от прототипа до рабочего инструмента. Работают офлайн, без API-ключей, с защитой от галлюцинаций.
 
 ## 🎯 Чем занимаюсь
 
-- Изучаю AI-инженерию: агентные системы, RAG, LangGraph
-- Строю портфолио проектов в области AI
-- Параллельно работаю педагогом дополнительного образования
+- Строю RAG-агентов по документам клиента — регламенты, инструкции, учебные материалы
+- Строю агентные системы: LangGraph, локальные LLM
+- Параллельно работаю в образовании — умею объяснять сложное простым языком
 
-**Цель:** развитие навыков AI-инженерии и создание решений с прицелом на реальные задачи бизнеса.
+**Фокус:** практические решения, которые можно внедрить и измерить результат.
 
 ## 🛠️ Стек
 
@@ -21,18 +21,18 @@
 
 ## 🚀 Проекты
 
-- **[LangGraph AI Agent(https://github.com/GlebShalunkov/LangGraph-AI-Agent-)]** — RAG-агент по деловым документам (LangGraph, ChromaDB, Ollama). Работает офлайн, не выдумывает информацию.
-- **[Школьный AI-помощник(https://github.com/GlebShalunkov/Local-AI-RAG-bot-for-school)]** — RAG-помощник по учебным материалам (RAG, Streamlit).
-- **[Steam RAG Search(https://github.com/GlebShalunkov/steam-RAG-search)]** — семантический поиск по описаниям игр (RAG, embeddings).
+- **[LangGraph AI Agent](https://github.com/GlebShalunkov/LangGraph-AI-Agent-)** — RAG-агент по деловым документам (LangGraph, ChromaDB, Ollama). Работает офлайн, не выдумывает информацию.
+- **[Школьный AI-помощник](https://github.com/GlebShalunkov/Local-AI-RAG-bot-for-school)** — RAG-помощник по учебным материалам (RAG, Streamlit).
+- **[Steam RAG Search](https://github.com/GlebShalunkov/steam-RAG-search)** — семантический поиск по описаниям игр (RAG, embeddings).
 
 ## 💡 Чем могу быть полезен
 
 - Строю RAG-агентов по вашим документам — от прототипа до рабочего инструмента
 - Объясняю AI-инженерию простым языком — педагогический опыт
-- Открыт к гибридным ролям: EdTech + AI, GameDev + AI
+- Открыт к проектам: EdTech + AI, GameDev + AI, автоматизация документооборота
 
 ## 📬 Контакты
 
-- GitHub: [Gleb Shalunkov](https://github.com/GlebShalunkov)
+- GitHub: [GlebShalunkov](https://github.com/GlebShalunkov)
 - Email: gleb.shalunkov@mail.ru
-- Telegram:[@GLEBowski_Telegram](https://t.me/GLEBowski_Telegram)
+- Telegram: [@GLEBowski_Telegram](https://t.me/GLEBowski_Telegram)
